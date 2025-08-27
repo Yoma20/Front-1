@@ -1,6 +1,5 @@
 {
   "name": "fiverr",
-  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@stripe/react-stripe-js": "^2.1.2",
