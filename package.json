@@ -27,8 +27,7 @@
     "dev": "vite",
     "build": "vite build",
     "build:vercel": "chmod +x node_modules/.bin/vite && vite build",
-    "preview": "vite preview",
-    "test": "vitest"
+    "preview": "vite preview"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^5.0.1",
